@@ -1,3 +1,4 @@
+![gitter-icon-24x24](https://github.com/user-attachments/assets/73096ee3-4c90-47b6-a3ac-fea4eab60fe5)
 # Lockfiles
 
 This has now been implemented:
